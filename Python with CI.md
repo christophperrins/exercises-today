@@ -62,7 +62,7 @@ Once it is in your own repository click **clone or download** button and make su
 
 Copy this link and in a bash terminal run:
 ```bash
-$ git clone git@github.com:USERNAME/ims-demo.git
+$ git clone git@github.com:christophperrins/ims-demo.git
 ```
 
 If you commit a change and push it back up, it will no longer ask for your username and password because it is going to verify your credentials using your ssh keys.
